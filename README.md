@@ -1,7 +1,7 @@
 # Cloud-Coverage-Detection-KVH
 The purpose of this project is to build predictive models for cloud coverage prediction after the next 15, 25 and 30 minutes, given the data of past 360 minutes (6 hours) .
 
-Documentation: https://docs.google.com/document/d/1NSPt0MgcluKspor2198lxPtN2d6iwSOQ0dYxeXy9AS4/edit#heading=h.z4as2m5ike7u
+Documentation: https://docs.google.com/document/d/1NSPt0MgcluKspor2198lxPtN2d6iwSOQ0dYxeXy9AS4/edit?usp=sharing
 <br>
 
 ## Models Implemented
